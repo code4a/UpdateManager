@@ -7,13 +7,13 @@
     <versionName>2.0</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
-    <apkUrl>https://github.com/hi-github/UpdateManager/master/docs/test/UpdateTest.apk</apkUrl>
+    <apkUrl>https://raw.github.com/hi-github/UpdateManager/master/docs/test/UpdateTest.apk</apkUrl>
     <updateTips>
         <default>update tips</default>
         <en>update tips</en>
-        <zh>升级提示\n1.版本检查\n2.版本维护\n3.版本更新</zh>
-        <zh_CN>升级提示</zh_CN>
-        <zh_TW>升级提示</zh_TW>
-        <zh_HK>升级提示</zh_HK>
+        <zh>鍗囩骇鎻愮ず\n1.鐗堟湰妫�鏌n2.鐗堟湰缁存姢\n3.鐗堟湰鏇存柊</zh>
+        <zh_CN>鍗囩骇鎻愮ず</zh_CN>
+        <zh_TW>鍗囩骇鎻愮ず</zh_TW>
+        <zh_HK>鍗囩骇鎻愮ず</zh_HK>
     </updateTips>
 </updateInfo>
